@@ -1,1 +1,1 @@
-OTA files for PixelOS river
+OTA files for crDroid river
