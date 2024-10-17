@@ -1,23 +1,13 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_alioth-14.0-20240820-2333.zip",
-    "datetime": 1724196719,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2252766183,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240820-2333.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240820-2333.zip",
-    "filehash": "e1dccd04cca5d1bc3460e664b2822a3d",
-    "id": "e1dccd04cca5d1bc3460e664b2822a3d",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "NotZeetaa",
-            "name": "NotZeetaa"
-        }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
+  "response": [
+    {
+      "datetime": "1719429452",
+      "filename": "lineage-21.0-20240626-UNOFFICIAL-Linux4-gta4xl.zip",
+      "id": "178c89f0a378efef427bd17fb31459309869da22fa3a20fc46bdbe8f9b6b3777",
+      "romtype": "UNOFFICIAL",
+      "size": "1001613690",
+      "url": "https://github.com/Linux4/lineage_OTA/releases/download/gta4xl-20240626/lineage-21.0-20240626-UNOFFICIAL-Linux4-gta4xl.zip",
+      "version": "21.0"
+    }
+  ]
 }
